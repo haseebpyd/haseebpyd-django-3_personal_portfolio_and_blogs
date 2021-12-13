@@ -48,7 +48,7 @@ jsonschema==2.6.0
 jupyter-client==6.1.2
 jupyter-core==4.6.3
 lazy-object-proxy==1.4.3
-lxml==4.5.0
+lxml==4.6.5
 MarkupSafe==1.1.1
 mccabe==0.6.1
 MeaningCloud-python==1.2.2
